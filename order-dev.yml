@@ -17,6 +17,6 @@ PRODUCT:
     NFLoadBalancerRuleClassName: com.netflix.loadbalancer.RandomRule
 
 env:
-  dev
+  dev2
 label:
   release

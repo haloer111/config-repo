@@ -18,3 +18,7 @@ PRODUCT:
 
 env:
   prod2222
+
+girl:
+  name: lili
+  age: 18

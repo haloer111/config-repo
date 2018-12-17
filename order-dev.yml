@@ -21,3 +21,5 @@ PRODUCT:
 
 env:
   dev
+lable:
+  release

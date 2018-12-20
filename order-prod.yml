@@ -11,7 +11,9 @@ spring:
     port: 5672
     username: guest
     password: guest
-
+  redis:
+    host: 192.168.0.107
+    port: 6388
 
 server:
   port: 8081
